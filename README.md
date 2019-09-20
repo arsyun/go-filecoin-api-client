@@ -9,7 +9,7 @@
 ## Install
 
 ```sh
-go get "xxx"
+go get github.com/arsyun/go-filecoin-api-client
 ```
 
 ## Usage
